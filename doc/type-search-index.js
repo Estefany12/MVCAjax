@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.mvcajax.controller","l":"CalcularPotenciaServlet"},{"p":"com.mvcajax.model","l":"ClaseCalcular"}]
